@@ -1,4 +1,4 @@
-# Experimental blog/articles website usign React, Node, MongoDB
+# Experimental blog/articles website. Created with React + Node + MongoDB
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
